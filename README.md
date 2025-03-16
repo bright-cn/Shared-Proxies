@@ -1,6 +1,6 @@
 # Bright Data 共享代理
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/solutions/shared-proxies)
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/solutions/shared-proxies)
 
 ## 概述
 通过 Bright Data 的[共享代理](https://www.bright.cn/solutions/shared-proxies)，尽享无缝的爬取体验，提供精准定向、卓越稳定性和闪电般的响应速度。
