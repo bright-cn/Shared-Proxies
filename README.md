@@ -69,7 +69,7 @@ Bright Data 是代理行业的领导者，为超过 20,000 名客户提供服务
 - [**电子商务**](https://www.bright.cn/use-cases/ecommerce)：跟踪价格和评论。
 - [**社交媒体**](https://www.bright.cn/use-cases/social-media-for-marketing)：监测趋势。
 - [**房地产**](https://www.bright.cn/use-cases/real-estate)：收集市场数据。
-- [**SEO**](https://brightdata.com/use-cases/serp)：跟踪 SERP 结果。
+- [**SEO**](https://www.bright.cn/use-cases/serp-tracking)：跟踪 SERP 结果。
 - [**金融服务**](https://www.bright.cn/use-cases/financial)：安全地分析趋势。
 
 ## 常见问题
